@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "175C7CA8-EE80-4DFB-B3C5-61A148816C76"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35A31FC7-3667-42A2-AECE-A2CBC3586A8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IconAndPreview/DocumentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35A31FC7-3667-42A2-AECE-A2CBC3586A8C - ea5f1577739d96a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.QLThumbnailRepresentation&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in IconAndPreview.DocumentViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "IconAndPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mall/Desktop/IconAndPreview/IconAndPreview/DocumentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "35A31FC7-3667-42A2-AECE-A2CBC3586A8C - 56ed947f088ef63a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.QLThumbnailRepresentation&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in IconAndPreview.DocumentViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "IconAndPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mall/Desktop/IconAndPreview/IconAndPreview/DocumentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39A6EFF2-A196-46F7-AFD7-4390A1C7A005"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IconAndPreview/DocumentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39A6EFF2-A196-46F7-AFD7-4390A1C7A005 - 8f958fe75c7ecfa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.QLThumbnailRepresentation&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in IconAndPreview.DocumentViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "IconAndPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mall/Desktop/IconAndPreview/IconAndPreview/DocumentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "39A6EFF2-A196-46F7-AFD7-4390A1C7A005 - 56ed947f088ef63a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Swift.Optional&lt;__C.QLThumbnailRepresentation&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in IconAndPreview.DocumentViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "IconAndPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mall/Desktop/IconAndPreview/IconAndPreview/DocumentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
